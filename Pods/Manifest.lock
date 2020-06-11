@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.2.1)
+  - IHProgressHUD (0.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - IHProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IHProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  IHProgressHUD: a01846bfbb581c761c79747c67b08387c3bdfae3
+
+PODFILE CHECKSUM: c1cc68056019ec60ddb01e4b89316c22db4f1a7f
+
+COCOAPODS: 1.9.3
